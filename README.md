@@ -7,8 +7,7 @@
 
 Equipo Final-E:
 
-Ismael Medina Muñoz
-Helio Jiménez García
+Ismael Medina Muñoz - Helio Jiménez García
 
 ---
 
