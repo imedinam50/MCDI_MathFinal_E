@@ -1,6 +1,6 @@
 # Maestría en Ciencia de Datos e Información
 
-## <center>“Optimización de costos en la asignación de ingenieros a solicitudes de usuario”<center/>
+## “Optimización de costos en la asignación de ingenieros a solicitudes de usuario”
 
 ### Proyecto Final
 ### Matemáticas para la Ciencia de Datos
